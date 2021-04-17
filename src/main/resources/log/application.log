@@ -1,0 +1,286 @@
+[INFO ] 2021-04-12 15:48:11 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:48:11 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:48:19 by.epam_training.final_task.controller.command.impl.Logout - User wants to logout
+[INFO ] 2021-04-12 15:48:19 by.epam_training.final_task.controller.command.impl.Logout - User session closed
+[INFO ] 2021-04-12 15:48:19 by.epam_training.final_task.controller.command.impl.Logout - User logged out
+[INFO ] 2021-04-12 15:48:22 by.epam_training.final_task.controller.command.impl.SignIn - User wants to sign in
+[INFO ] 2021-04-12 15:48:22 by.epam_training.final_task.dao.impl.SQLUserDAO - User verification has started
+[INFO ] 2021-04-12 15:48:22 by.epam_training.final_task.controller.command.impl.SignIn - User exist
+[INFO ] 2021-04-12 15:48:22 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:48:22 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:48:30 by.epam_training.final_task.dao.impl.SQLRoomDAO - Connecting with database
+[INFO ] 2021-04-12 15:48:30 by.epam_training.final_task.dao.impl.SQLRoomDAO - Successfully connecting
+[INFO ] 2021-04-12 15:48:31 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:48:31 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:48:35 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-12 15:48:39 by.epam_training.final_task.dao.impl.SQLUserDAO - Connecting with database
+[INFO ] 2021-04-12 15:48:39 by.epam_training.final_task.dao.impl.SQLUserDAO - Successfully connecting
+[INFO ] 2021-04-12 15:48:39 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-12 15:48:41 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 15:48:41 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 15:48:41 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 15:48:47 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Connecting with database
+[INFO ] 2021-04-12 15:48:47 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Successfully connecting
+[INFO ] 2021-04-12 15:48:48 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:48:48 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:51:06 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-12 15:55:51 by.epam_training.final_task.controller.command.impl.SignIn - User wants to sign in
+[INFO ] 2021-04-12 15:55:51 by.epam_training.final_task.dao.impl.SQLUserDAO - User verification has started
+[INFO ] 2021-04-12 15:55:51 by.epam_training.final_task.controller.command.impl.SignIn - User exist
+[INFO ] 2021-04-12 15:55:51 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:55:51 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:56:22 by.epam_training.final_task.dao.impl.SQLRoomDAO - Connecting with database
+[INFO ] 2021-04-12 15:56:22 by.epam_training.final_task.dao.impl.SQLRoomDAO - Successfully connecting
+[INFO ] 2021-04-12 15:56:23 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:56:23 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:56:34 by.epam_training.final_task.dao.impl.SQLRoomDAO - Connecting with database
+[INFO ] 2021-04-12 15:56:34 by.epam_training.final_task.dao.impl.SQLRoomDAO - Successfully connecting
+[INFO ] 2021-04-12 15:56:35 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:56:35 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:57:09 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:57:09 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:57:17 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:57:17 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:57:22 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 15:57:22 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 15:57:22 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 15:57:27 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:57:27 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:57:42 by.epam_training.final_task.controller.command.impl.admin.ChangeRoom - Admin wants to change room
+[INFO ] 2021-04-12 15:57:42 by.epam_training.final_task.controller.command.impl.admin.ChangeRoom - Room successfully changed
+[INFO ] 2021-04-12 15:57:42 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:57:42 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:57:50 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 15:57:50 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 15:57:50 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 15:58:03 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Connecting with database
+[INFO ] 2021-04-12 15:58:03 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Successfully connecting
+[INFO ] 2021-04-12 15:58:09 by.epam_training.final_task.controller.command.impl.admin.ChangeService - Admin wants to change additional service
+[INFO ] 2021-04-12 15:58:09 by.epam_training.final_task.controller.command.impl.admin.ChangeService - Additional service successfully changed
+[INFO ] 2021-04-12 15:58:09 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 15:58:09 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 15:58:09 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 15:58:17 by.epam_training.final_task.controller.command.impl.admin.GoToBlockedRoomsPage - Admin wants to view the blocked services
+[INFO ] 2021-04-12 15:58:17 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 15:58:17 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 15:58:19 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:58:19 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:58:20 by.epam_training.final_task.controller.command.impl.admin.GoToBlockedRoomsPage - Admin wants to view the blocked rooms
+[INFO ] 2021-04-12 15:58:20 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 15:58:20 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 15:58:21 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 15:58:21 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 15:58:21 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 15:58:49 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Connecting with database
+[INFO ] 2021-04-12 15:58:49 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Successfully connecting
+[INFO ] 2021-04-12 15:59:06 by.epam_training.final_task.controller.command.impl.admin.ChangeService - Admin wants to change additional service
+[INFO ] 2021-04-12 15:59:06 by.epam_training.final_task.controller.command.impl.admin.ChangeService - Additional service successfully changed
+[INFO ] 2021-04-12 15:59:06 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 15:59:06 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 15:59:06 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 15:59:09 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 15:59:09 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 15:59:09 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 15:59:20 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-12 15:59:36 by.epam_training.final_task.dao.impl.SQLUserDAO - Connecting with database
+[INFO ] 2021-04-12 15:59:36 by.epam_training.final_task.dao.impl.SQLUserDAO - Successfully connecting
+[INFO ] 2021-04-12 15:59:36 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-12 15:59:37 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-12 15:59:39 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-12 16:01:06 by.epam_training.final_task.controller.command.impl.SignUp - User wants to register
+[INFO ] 2021-04-12 16:01:06 by.epam_training.final_task.controller.command.impl.SignUp - User has registered
+[INFO ] 2021-04-12 16:01:06 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 16:01:06 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 16:01:08 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-12 16:01:12 by.epam_training.final_task.dao.impl.SQLUserDAO - Connecting with database
+[INFO ] 2021-04-12 16:01:12 by.epam_training.final_task.dao.impl.SQLUserDAO - Successfully connecting
+[INFO ] 2021-04-12 16:01:12 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-12 16:01:14 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-12 16:01:16 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 16:01:16 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 16:01:16 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 16:01:18 by.epam_training.final_task.controller.command.impl.ChangeLocale - User wants to change language
+[INFO ] 2021-04-12 16:01:18 by.epam_training.final_task.controller.command.impl.ChangeLocale - Language was changed
+[INFO ] 2021-04-12 16:01:18 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 16:01:18 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 16:01:18 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 16:01:20 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-12 16:03:45 by.epam_training.final_task.controller.command.impl.SignIn - User wants to sign in
+[INFO ] 2021-04-12 16:03:45 by.epam_training.final_task.dao.impl.SQLUserDAO - User verification has started
+[INFO ] 2021-04-12 16:03:45 by.epam_training.final_task.controller.command.impl.SignIn - User exist
+[INFO ] 2021-04-12 16:03:45 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 16:03:45 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 16:03:47 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 16:03:47 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 16:04:54 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 16:04:54 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 16:05:14 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 16:05:14 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 16:05:15 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 16:05:15 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 16:10:01 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 16:10:01 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 16:10:42 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 16:10:42 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 16:10:50 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 16:10:50 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 16:10:50 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 16:13:21 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 16:13:21 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 16:13:21 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 16:13:40 by.epam_training.final_task.controller.command.impl.ChangeLocale - User wants to change language
+[INFO ] 2021-04-12 16:13:40 by.epam_training.final_task.controller.command.impl.ChangeLocale - Language was changed
+[INFO ] 2021-04-12 16:13:40 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 16:13:40 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 16:13:40 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 16:15:15 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 16:15:15 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 16:15:15 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 16:15:18 by.epam_training.final_task.controller.command.impl.ChangeLocale - User wants to change language
+[INFO ] 2021-04-12 16:15:18 by.epam_training.final_task.controller.command.impl.ChangeLocale - Language was changed
+[INFO ] 2021-04-12 16:15:18 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-12 16:15:18 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-12 16:15:18 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-12 16:15:22 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 16:15:22 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 16:15:31 by.epam_training.final_task.controller.command.impl.SearchRoomsByCriteria - User wants to search rooms by criteria
+[INFO ] 2021-04-12 16:15:31 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 16:15:31 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-12 16:20:52 by.epam_training.final_task.controller.command.impl.ChangeLocale - User wants to change language
+[INFO ] 2021-04-12 16:20:52 by.epam_training.final_task.controller.command.impl.ChangeLocale - Language was changed
+[INFO ] 2021-04-12 16:20:52 by.epam_training.final_task.controller.command.impl.SearchRoomsByCriteria - User wants to search rooms by criteria
+[INFO ] 2021-04-12 16:20:52 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-12 16:20:52 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:23:04 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:23:04 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:23:20 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:23:20 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:23:22 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:23:22 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:24:10 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:24:10 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:24:33 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:24:33 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:24:37 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:24:37 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:26:40 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:26:40 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:26:43 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:26:43 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:26:53 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:26:53 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:26:54 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:26:54 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:27:07 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:27:07 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:27:12 by.epam_training.final_task.controller.command.impl.ChangeLocale - User wants to change language
+[INFO ] 2021-04-17 20:27:12 by.epam_training.final_task.controller.command.impl.ChangeLocale - Language was changed
+[INFO ] 2021-04-17 20:27:12 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:27:12 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:29:24 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:29:24 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:30:55 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:30:55 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:31:24 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:31:24 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:31:25 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:31:25 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:31:37 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:31:38 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:32:17 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:32:17 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:32:26 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:32:26 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:36:58 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:36:58 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:37:05 by.epam_training.final_task.controller.command.impl.SignIn - User wants to sign in
+[INFO ] 2021-04-17 20:37:05 by.epam_training.final_task.dao.impl.SQLUserDAO - User verification has started
+[INFO ] 2021-04-17 20:37:05 by.epam_training.final_task.controller.command.impl.SignIn - User exist
+[INFO ] 2021-04-17 20:37:05 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:37:05 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:37:07 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:37:38 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:37:41 by.epam_training.final_task.controller.command.impl.GoToActiveOrdersPage - User wants to view active orders
+[INFO ] 2021-04-17 20:37:41 by.epam_training.final_task.dao.impl.SQLOrderRoomDAO - Find orderRooms has started
+[INFO ] 2021-04-17 20:37:41 by.epam_training.final_task.dao.impl.SQLOrderRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:37:41 by.epam_training.final_task.controller.command.impl.GoToActiveOrdersPage - Active orders not found
+[INFO ] 2021-04-17 20:37:43 by.epam_training.final_task.controller.command.impl.GoToArchiveOrdersPage - User wants to view the paid orders
+[INFO ] 2021-04-17 20:37:43 by.epam_training.final_task.dao.impl.SQLOrderRoomDAO - Find orderRooms has started
+[INFO ] 2021-04-17 20:37:43 by.epam_training.final_task.dao.impl.SQLOrderRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:37:43 by.epam_training.final_task.controller.command.impl.GoToArchiveOrdersPage - Paid orders not found
+[INFO ] 2021-04-17 20:37:44 by.epam_training.final_task.controller.command.impl.GoToReturnedOrdersPage - User wants to view the returned orders
+[INFO ] 2021-04-17 20:37:44 by.epam_training.final_task.dao.impl.SQLOrderRoomDAO - Find orderRooms has started
+[INFO ] 2021-04-17 20:37:44 by.epam_training.final_task.dao.impl.SQLOrderRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:37:44 by.epam_training.final_task.controller.command.impl.GoToReturnedOrdersPage - Returned orders not found
+[INFO ] 2021-04-17 20:37:45 by.epam_training.final_task.controller.command.impl.GoToAdditionalServicesPage - User wants to view additional services
+[INFO ] 2021-04-17 20:37:45 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Find services has started
+[INFO ] 2021-04-17 20:37:45 by.epam_training.final_task.dao.impl.SQLAdditionalServiceDAO - Search for services ended
+[INFO ] 2021-04-17 20:37:48 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:38:01 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:38:01 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:45:24 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:45:24 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:45:30 by.epam_training.final_task.controller.command.impl.SignIn - User wants to sign in
+[INFO ] 2021-04-17 20:45:30 by.epam_training.final_task.dao.impl.SQLUserDAO - User verification has started
+[INFO ] 2021-04-17 20:45:30 by.epam_training.final_task.controller.command.impl.SignIn - User exist
+[INFO ] 2021-04-17 20:45:30 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:45:30 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:45:31 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:45:33 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:45:49 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:46:27 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:46:28 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:47:06 by.epam_training.final_task.controller.command.impl.SignIn - User wants to sign in
+[INFO ] 2021-04-17 20:47:06 by.epam_training.final_task.dao.impl.SQLUserDAO - User verification has started
+[INFO ] 2021-04-17 20:47:06 by.epam_training.final_task.controller.command.impl.SignIn - User exist
+[INFO ] 2021-04-17 20:47:06 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:47:06 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:47:08 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:47:10 by.epam_training.final_task.controller.command.impl.Logout - User wants to logout
+[INFO ] 2021-04-17 20:47:10 by.epam_training.final_task.controller.command.impl.Logout - User session closed
+[INFO ] 2021-04-17 20:47:10 by.epam_training.final_task.controller.command.impl.Logout - User logged out
+[INFO ] 2021-04-17 20:47:14 by.epam_training.final_task.controller.command.impl.SignIn - User wants to sign in
+[INFO ] 2021-04-17 20:47:14 by.epam_training.final_task.dao.impl.SQLUserDAO - User verification has started
+[INFO ] 2021-04-17 20:47:14 by.epam_training.final_task.controller.command.impl.SignIn - User exist
+[INFO ] 2021-04-17 20:47:14 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:47:14 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:47:15 by.epam_training.final_task.controller.command.impl.GoToActiveOrdersPage - User wants to view active orders
+[INFO ] 2021-04-17 20:47:15 by.epam_training.final_task.dao.impl.SQLOrderRoomDAO - Find orderRooms has started
+[INFO ] 2021-04-17 20:47:15 by.epam_training.final_task.dao.impl.SQLOrderRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:47:15 by.epam_training.final_task.controller.command.impl.GoToActiveOrdersPage - Active orders not found
+[INFO ] 2021-04-17 20:47:17 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:47:18 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:47:33 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:50:01 by.epam_training.final_task.controller.command.impl.SignIn - User wants to sign in
+[INFO ] 2021-04-17 20:50:01 by.epam_training.final_task.dao.impl.SQLUserDAO - User verification has started
+[INFO ] 2021-04-17 20:50:01 by.epam_training.final_task.controller.command.impl.SignIn - User exist
+[INFO ] 2021-04-17 20:50:01 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:50:01 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:50:02 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:50:07 by.epam_training.final_task.dao.impl.SQLUserDAO - Connecting with database
+[INFO ] 2021-04-17 20:50:07 by.epam_training.final_task.dao.impl.SQLUserDAO - Successfully connecting
+[INFO ] 2021-04-17 20:50:07 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:50:19 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:50:29 by.epam_training.final_task.dao.impl.SQLUserDAO - Connecting with database
+[INFO ] 2021-04-17 20:50:29 by.epam_training.final_task.dao.impl.SQLUserDAO - Successfully connecting
+[INFO ] 2021-04-17 20:50:29 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:50:32 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:50:33 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:50:34 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:50:35 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:50:37 by.epam_training.final_task.controller.command.impl.GoToActiveOrdersPage - User wants to view active orders
+[INFO ] 2021-04-17 20:50:37 by.epam_training.final_task.dao.impl.SQLOrderRoomDAO - Find orderRooms has started
+[INFO ] 2021-04-17 20:50:37 by.epam_training.final_task.dao.impl.SQLOrderRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:50:37 by.epam_training.final_task.controller.command.impl.GoToActiveOrdersPage - Active orders not found
+[INFO ] 2021-04-17 20:50:41 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:50:45 by.epam_training.final_task.controller.command.impl.Logout - User wants to logout
+[INFO ] 2021-04-17 20:50:45 by.epam_training.final_task.controller.command.impl.Logout - User session closed
+[INFO ] 2021-04-17 20:50:45 by.epam_training.final_task.controller.command.impl.Logout - User logged out
+[INFO ] 2021-04-17 20:50:55 by.epam_training.final_task.controller.command.impl.SignUp - User wants to register
+[INFO ] 2021-04-17 20:50:55 by.epam_training.final_task.controller.command.impl.SignUp - User has registered
+[INFO ] 2021-04-17 20:50:55 by.epam_training.final_task.dao.impl.SQLRoomDAO - Find rooms has started
+[INFO ] 2021-04-17 20:50:55 by.epam_training.final_task.dao.impl.SQLRoomDAO - Search for rooms ended
+[INFO ] 2021-04-17 20:50:57 by.epam_training.final_task.controller.command.impl.GoToProfilePage - Admin wants to view the personal account
+[INFO ] 2021-04-17 20:50:58 by.epam_training.final_task.controller.command.impl.Logout - User wants to logout
+[INFO ] 2021-04-17 20:50:58 by.epam_training.final_task.controller.command.impl.Logout - User session closed
+[INFO ] 2021-04-17 20:50:58 by.epam_training.final_task.controller.command.impl.Logout - User logged out

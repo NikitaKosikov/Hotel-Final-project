@@ -1,0 +1,15 @@
+.payment {
+    border: 2px solid #e2ab12;
+    width: 500px;
+    height: 280px;
+    color: #e2ab12;
+    margin: 0 auto;
+    padding: 10px;
+
+}
+
+.payment_input {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}

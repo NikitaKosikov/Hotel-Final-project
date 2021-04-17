@@ -1,0 +1,88 @@
+
+
+
+
+.slider_services{
+    max-width: 90%;
+    position: relative;
+    height: 300px;
+    margin: auto auto 10px;
+}
+/* Картинка мастабируется по отношению к родительскому элементу */
+.slider_services .item_services img {
+    object-fit: cover;
+    width: 400px;
+    height: 275px;
+    border: none !important;
+    box-shadow: none !important;
+    border-radius: 10px;
+
+}
+/* Кнопки вперед и назад */
+.slider_services .prev_services, .slider_services .next_services {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+}
+.slider_services .next_services {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+/* При наведении на кнопки добавляем фон кнопок */
+.slider_services .prev_services:hover,
+.slider_services .next_services:hover {
+    background-color: rgba(19, 18, 18, 0.8);
+}
+
+/* Кружочки */
+.slider-dots_services {
+    text-align: center;
+}
+.slider-dots_item_services{
+    cursor: pointer;
+    height: 12px;
+    width: 12px;
+    margin: 0 2px;
+    background-color: #ddd;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+.active_services,
+.slider-dots_item_services:hover {
+    background-color: #aaa;
+}
+/* Анимация слайдов */
+.slider_services .item_services {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+@-webkit-keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+
+
